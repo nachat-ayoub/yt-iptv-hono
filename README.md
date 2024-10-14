@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="/src/public/logo.svg" alt="yt-iptv-hono" width="200" />
+  <img src="/src/public/logo.svg" alt="yt-iptv-hono" width="400" />
 </p>
-
-<h1 align="center">yt-iptv-hono</h1>
 
 <p align="center">
   A lightweight YouTube to IPTV streaming server built with Hono, Bun, Nunjucks, and TailwindCSS (DaisyUI). 
