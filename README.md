@@ -5,6 +5,10 @@
 <br>
 
 <p align="center">
+  <img src="https://i.imgur.com/LjeQP7P.png" alt="Demo" width="80%" />
+</p>
+
+<p align="center">
   🎉 A lightweight YouTube to IPTV streaming server built with Hono, Bun, Nunjucks, and TailwindCSS (DaisyUI). 
 </p>
 
